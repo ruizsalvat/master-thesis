@@ -1,0 +1,35 @@
+<mxfile host="Electron" modified="2024-06-16T13:29:34.924Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="GSsTDYvreRvL_tiUXfZB" version="24.5.3" type="device">
+  <diagram name="Page-1" id="4IlSx9i7Ue7xGvnpBhBo">
+    <mxGraphModel dx="1434" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="heJ8_L_qOR7zMxl7JFTi-1" value="Interface" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="heJ8_L_qOR7zMxl7JFTi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="heJ8_L_qOR7zMxl7JFTi-3" target="heJ8_L_qOR7zMxl7JFTi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="heJ8_L_qOR7zMxl7JFTi-3" value="Cloud SDK" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="320" width="75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="heJ8_L_qOR7zMxl7JFTi-4" value="Cloud CLI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="320" width="75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="heJ8_L_qOR7zMxl7JFTi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="heJ8_L_qOR7zMxl7JFTi-6" target="heJ8_L_qOR7zMxl7JFTi-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="408" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="heJ8_L_qOR7zMxl7JFTi-6" value="REST API" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="320" width="75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="heJ8_L_qOR7zMxl7JFTi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="heJ8_L_qOR7zMxl7JFTi-4" target="heJ8_L_qOR7zMxl7JFTi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

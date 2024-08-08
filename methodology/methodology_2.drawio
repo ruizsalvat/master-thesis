@@ -1,0 +1,37 @@
+<mxfile host="Electron" modified="2024-07-17T22:12:55.587Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="Fnf95QSSD-0xfE7UvIDO" version="24.5.3" type="device">
+  <diagram name="Page-1" id="n7LZLgBobZrZAuqCea2R">
+    <mxGraphModel dx="1434" dy="969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TnzbE9qwUgnVg1Dg4Yx0-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TnzbE9qwUgnVg1Dg4Yx0-1" target="TnzbE9qwUgnVg1Dg4Yx0-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TnzbE9qwUgnVg1Dg4Yx0-1" value="Selection of endpoints" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="190" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TnzbE9qwUgnVg1Dg4Yx0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TnzbE9qwUgnVg1Dg4Yx0-4" target="TnzbE9qwUgnVg1Dg4Yx0-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TnzbE9qwUgnVg1Dg4Yx0-4" value="Annotate rule compliance from API documentation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="190" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TnzbE9qwUgnVg1Dg4Yx0-5" value="Attempt an API request and annotate the result" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="190" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TnzbE9qwUgnVg1Dg4Yx0-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="70" y="80" width="670" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="TnzbE9qwUgnVg1Dg4Yx0-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="270" y="120" width="460" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TnzbE9qwUgnVg1Dg4Yx0-10" value="For each API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TnzbE9qwUgnVg1Dg4Yx0-11" value="For each service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

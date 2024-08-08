@@ -1,0 +1,105 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="Page-1" id="0x2Itp3V2EJtr5aEpNPl">
+    <mxGraphModel dx="1434" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-1" value="HTTP Responses from Bad Requests" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="90" y="130" width="650" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-1" vertex="1">
+          <mxGeometry y="30" width="650" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-3" value="API" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-2" vertex="1">
+          <mxGeometry width="100" height="30" as="geometry">
+            <mxRectangle width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-4" value="&lt;b&gt;G. Vertex AI&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-2" vertex="1">
+          <mxGeometry x="100" width="170" height="30" as="geometry">
+            <mxRectangle width="170" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-5" value="&lt;b&gt;BigML&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-2" vertex="1">
+          <mxGeometry x="270" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-14" value="&lt;b&gt;IBM ML&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-2" vertex="1">
+          <mxGeometry x="420" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-1" vertex="1">
+          <mxGeometry y="60" width="650" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-7" value="Endpoint" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-6" vertex="1">
+          <mxGeometry width="100" height="30" as="geometry">
+            <mxRectangle width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-8" value="Export dataset" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-6" vertex="1">
+          <mxGeometry x="100" width="170" height="30" as="geometry">
+            <mxRectangle width="170" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-9" value="Data source create" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-6" vertex="1">
+          <mxGeometry x="270" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-15" value="Pipeline update" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-6" vertex="1">
+          <mxGeometry x="420" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-1" vertex="1">
+          <mxGeometry y="90" width="650" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-11" value="Response Status Code" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-10" vertex="1">
+          <mxGeometry width="100" height="40" as="geometry">
+            <mxRectangle width="100" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-12" value="500" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-10" vertex="1">
+          <mxGeometry x="100" width="170" height="40" as="geometry">
+            <mxRectangle width="170" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-13" value="400" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-10" vertex="1">
+          <mxGeometry x="270" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-16" value="400" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-10" vertex="1">
+          <mxGeometry x="420" width="230" height="40" as="geometry">
+            <mxRectangle width="230" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-17" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-1" vertex="1">
+          <mxGeometry y="130" width="650" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-18" value="Response Body" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-17" vertex="1">
+          <mxGeometry width="100" height="170" as="geometry">
+            <mxRectangle width="100" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-19" value="&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;{&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;error&quot;: {&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;code&quot;: 500,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;message&quot;: &quot;Internal error encountered.&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;status&quot;: &quot;INTERNAL&quot;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; }&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-17" vertex="1">
+          <mxGeometry x="100" width="170" height="170" as="geometry">
+            <mxRectangle width="170" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-20" value="&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;code&quot;: 400,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;status&quot;: {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;code&quot;: -1204,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;message&quot;: &quot;Bad request&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-17" vertex="1">
+          <mxGeometry x="270" width="150" height="170" as="geometry">
+            <mxRectangle width="150" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMp-vh5gHKcKrv2IV44Z-21" value="&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;{&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;trace&quot;: &quot;86640ecf2747438181a09097bffd0730&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;errors&quot;: [&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;code&quot;: &quot;invalid_request_entity&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;message&quot;: &quot;Invalid request entity: Patch path &#39;name&#39; not allowed.&quot;,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;more_info&quot;: &quot;https://cloud.ibm.com/apidocs/machine-learning&quot;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; ],&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;status_code&quot;: &quot;400&quot;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="LMp-vh5gHKcKrv2IV44Z-17" vertex="1">
+          <mxGeometry x="420" width="230" height="170" as="geometry">
+            <mxRectangle width="230" height="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
